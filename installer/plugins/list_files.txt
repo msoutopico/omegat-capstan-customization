@@ -1,0 +1,3 @@
+okapiFiltersForOmegaT-1.8-1.40.0-capstan.jar
+omegat-bidimarkers-0.2.0-all.jar
+plugin-omt-package-1.6.3.jar
